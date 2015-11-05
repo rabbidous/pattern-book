@@ -1,9 +1,9 @@
+all: build/majbook.pdf
 
-pdf: *.md
+build/majbook.pdf: *.md
 	mkdir -p build
 	pandoc --toc \
 				 -s \
-				 --template=pdf/template.tex \
 				 -V title="Madison Area Jugglers' Pattern Book" \
 				 -V documentclass=book \
 				 -V subtitle="Version 2.0: Draft" \
@@ -14,5 +14,12 @@ pdf: *.md
 				 -t latex \
 				 *.md \
 				 -o build/majbook.pdf
+
+upload: build/majbook.pdf
+	git config user.name "rabbidous"
+	git config user.email "mghemke@gmail.com"
+	git add build/majbook.pdf
+	git commit -m "Travis upload of latest PDF [ci skip]"
+	git push
 clean:
 	rm -rf build

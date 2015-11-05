@@ -213,7 +213,7 @@ the Standard Twister Weave.
 > * Right hands counting
 > * Y starts with 4
 
-Another nice variation is for the weavers to do ½ pirouettes under a triple
+Another nice variation is for the weavers to do 1/2 pirouettes under a triple
 right to left self throw for their turn.
 
 Also see Twister++ and Twister 5.
@@ -288,7 +288,7 @@ Feed.
 
 The hardest position is the middle feedee, because he/she cannot cheat as much
 into the turns. You can either turn fast during the single self, throw a right
-to left single straight up in the air and do a ½ pirouette underneath it, or
+to left single straight up in the air and do a 1/2 pirouette underneath it, or
 throw a behind the back self to turn.
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** |

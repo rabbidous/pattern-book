@@ -41,7 +41,7 @@ Because of symmetry, there are really only 9 unique patterns so far instead of 1
 
 As we've seen from Appendix B, every passing pattern has a corresponding complementary dual pattern (or shadow pattern) where a juggler's right hand pattern is combined with the left hand pattern off the adjacent juggler. This is really just one permutation of a 4 person 2 handed site swap. Each of the 9 patterns above has a corresponding shadow person pattern, and curiously, they are all 2-count, more or less. Let's look at a couple more closely.
 
-1.  The shadow pattern for the standard 4p3 is a synchronous juggling pattern where the left and right hands of a juggler throw and catch at exactly the same time. For this pattern the left hand will throw a crossing double self while the right hand throws a straight single pass: (4x, 3p) | (4x, 3p). The second juggler pauses ½ beat before throwing their 2 synchronous throws: one as a pass and the other as a self.
+1.  The shadow pattern for the standard 4p3 is a synchronous juggling pattern where the left and right hands of a juggler throw and catch at exactly the same time. For this pattern the left hand will throw a crossing double self while the right hand throws a straight single pass: (4x, 3p) | (4x, 3p). The second juggler pauses 1/2 beat before throwing their 2 synchronous throws: one as a pass and the other as a self.
 
 2.  The same pattern can be done left handed (3p, 4x) | (3p, 4x).
 

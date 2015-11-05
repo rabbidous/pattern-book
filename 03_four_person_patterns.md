@@ -54,17 +54,17 @@ and B pass and vice versa. Other variations are Pistons and the Minuet.
 * **13 Club Box** – Throw a double right pass to the juggler on your left in
     4-count. Each passer passes on their own beat.
 * **14 Club Box** – This can be done with pairs of jugglers synchronized in a 7
-    club 2-count, but it is easiest if each juggler is ½ beat after each other.
+    club 2-count, but it is easiest if each juggler is 1/2 beat after each other.
 * **14 Club 4-Count Box** – This is a box where each pair of juggler does 7
     club 4-count with triples. The two pairs are 1 beat away from each other (A
     and B's rights are synchronized with C and D's lefts).
 * **16 Club Box** – There are several nice 16 club box variations. To reduce
-    collisions, have A and C throw triples while B and D throw singles (½ beat
+    collisions, have A and C throw triples while B and D throw singles (1/2 beat
     after each other). The overall timing is about the same as 8 doubles (or 7
     singles). This is a pretty pattern. You can also do a 16 club box pattern
     with all the jugglers synchronized in 8 club 2-count singles, doubles or
     triples. Nice! Pass either straight across, or to the juggler on the left.
-* **18 Club Box** – With 9 club triples 2 count and each juggler offset ½ beat.
+* **18 Club Box** – With 9 club triples 2 count and each juggler offset 1/2 beat.
   However, if you are doing this pattern, you probably don't need our
   suggestions on club passing in a box... Very cool, but tricky!
 * Also see Fireworks.
@@ -233,14 +233,14 @@ In this version, weavers move back and forth in an 6-count. This is a fun one.
 |-------------|--------|-------|-------|--------|-------|-------|-------|--------|-------|--------|--------|--------|--------|--------|
 | **Juggler** | **1**  | **2** | **3** | **4**  | **5** | **6** | **7** | **8**  | **9** | **10** | **11** | **12** | **13** | **14** |
 | **A**       | D-B    |       | D-C   |        | D-D   |       | D-C   |        |       |        | D-C    |        |        |        |
-| **B**       |        | D-A   |       | D-self | ½ P   |       |       |        | D-C   |        | D-self | ½ P    |        |        |
+| **B**       |        | D-A   |       | D-self | 1/2 P   |       |       |        | D-C   |        | D-self | 1/2 P    |        |        |
 | **C**       |        |       |       | D-A    |       |       |       | D-B    |       | D-A    |        | D-D    |        | D-A    |
-| **D**       | D-self | ½ P   |       |        |       | D-A   |       | D-self | ½ P   |        |        |        | D-C    |        |
+| **D**       | D-self | 1/2 P   |       |        |       | D-A   |       | D-self | 1/2 P   |        |        |        | D-C    |        |
 
 > * Both hands counting, all passes are right handed
 > * A starts with right hand and 4 clubs
 > * B, C and D start with left hand
-> * ½ P marks a half pirouette underneath the Right to Left double self throw
+> * 1/2 P marks a half pirouette underneath the Right to Left double self throw
 
 Pattern by Luke Emery.
 
@@ -625,13 +625,13 @@ pirouette underneath, followed by a left self and then repeat.
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** |
 |-------------|-------|-------|-------|-------|-------|-------|-------|-------|
-| **A**       | D     | D     | ½ P   |       | C     | C     | ½ P   |       |
-| **B**       | C     | C     | ½ P   |       | D     | D     | ½ P   |       |
+| **A**       | D     | D     | 1/2 P   |       | C     | C     | 1/2 P   |       |
+| **B**       | C     | C     | 1/2 P   |       | D     | D     | 1/2 P   |       |
 | **C**       | B     | B     |       |       | A     | A     |       |       |
 | **D**       | A     | A     |       |       | B     | B     |       |       |
 
 > * Both hands counting starting with the right hand.
-> * The ½ P marks a half pirouette under a single spin right to left self.
+> * The 1/2 P marks a half pirouette under a single spin right to left self.
 >   A and B spin in place. They don't move to both positions like in the Benzene
 >   Ring.
 

@@ -9,7 +9,7 @@ works for 7 through 12 people.
 The movers (G, H, I, J, and K) move in a typical Blast fashion, except they turn
 around after every pass to A and B to pass to feeders behind the weave.
 
-The table shows ½ of a full cycle, so the table ends in the mirror image of the
+The table shows 1/2 of a full cycle, so the table ends in the mirror image of the
 start.
 
 | **Juggler** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** | **10** |

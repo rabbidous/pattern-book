@@ -497,14 +497,14 @@ Extra club version of Mel in the Middle, except in 4-count instead of 3-count. I
 | **Juggler** | **1** | **2**  | **3** | **4** | **5**  | **6** | **7**  | **8** | **9** | **10** | **11** | **12** | **13** | **14** |
 |-------------|-------|--------|-------|-------|--------|-------|--------|-------|-------|--------|--------|--------|--------|--------|
 | **A**       | D-C   |        | B     |       | D-C    |       | T-self |       | D-C   |        | D-C    |        | B      |        |
-| **B**       |       |        | A     |       | D-self | ½ P   |        | C     |       | D-self | ½ P    |        | A      |        |
+| **B**       |       |        | A     |       | D-self | 1/2 P   |        | C     |       | D-self | 1/2 P    |        | A      |        |
 | **C**       |       | T-self |       | D-A   |        | D-A   |        | B     |       | D-A    |        | D-A    |        | T-self |
 
 > * Both hands counting
 > * A starts with 4 clubs, right hand
 > * B starts facing A, right hand
 > * C starts with left hand
-> * ½ P marks half pirouette underneath the double
+> * 1/2 P marks half pirouette underneath the double
 > * 1 is the same as 11. This is just one possible variation of spinning underneath popcorn.
 
 ### Dropback Line

@@ -27,7 +27,7 @@ siteswap.
 
 A throws synchronized right triple straight, left single cross
 
-B responds ½ beat later
+B responds 1/2 beat later
 
 B throws synchronized right single straight, left triple cross
 
