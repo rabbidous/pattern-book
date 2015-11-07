@@ -1,6 +1,6 @@
 sudo: required
 before_install:
-- sudo apt-get install pandoc texlive-latex-recommended
+- sudo apt-get install pandoc texlive-latex-recommended texlive-latex-extra
 script:
 - make clean
 - make all
