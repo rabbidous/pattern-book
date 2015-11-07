@@ -10,5 +10,6 @@ deploy:
     secure: HO6KorkMHopnP5JwG3rt4UR8h48HuILUyPiSuMMAfqckD0Dnk0Ztl5Ebx5IcPPrBNz9oJ6Ccgv5DlFCtGy+L0T70RONQrETMD3Dk9Xm6rb7vQO7F0oEzW5ztscSvr4iKBhM4h6UfCX9pikbkp+ZDYJm7RT5sv8+JMgdyZxM48x9t9Cnx73/OsDF/AlSCmyzTp8E9yS5RHrl+NKE8TMWXYxyxBSV6oeUgvFgO7k5EbWOaE7cgKUVGkNxUitMYaK5Fi89U2aF4fKcc5zXkmIn9qg+r6/HTq4HiaQeARihOQ/rLQxP6ReBus+ZouF+qWCooTzFRmCCZItCaowARZm/K51WOh7sqLT9dSywnF1rh07j9rFZb0al/5v961AXWas97NcdVDJLvuR62iZ4eJatHcMxDdOpNjKjAtoik+NJWFGfjm1uqnc1m9Ss7AAju28MWJj2Du49rb/U6sJrzwsDzUvyg3i9Ji4XK1O9Ret/NGMM7ldfAx4iodf7WAkys4zIyRDczkW54QMTD2aXOeNHnPoqaBkBRSLqDhjYmq0oAnGap12hw+LnDZiFNOT1KYd80A7NwTL2gYJU3XhBkGa4/WLdUTNmWmlDfC+EagsSmE0Sv/XK+Un7COB9Pu/6myX6v6x27sdObMhEMNvWJEpdaR0YCu5sybJBvjeDSxWpaSWk=
   file: build/majbook.pdf
   on:
+    tags: true
+    all_branches: true
     repo: rabbidous/pattern-book
-    branch: all
