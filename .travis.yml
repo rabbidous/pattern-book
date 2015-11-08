@@ -2,7 +2,7 @@ sudo: required
 before_install:
   - sudo apt-get update
   - sudo apt-get build-dep pandoc
-  - sudo apt-get install texlive
+  - sudo apt-get install texlive cabal
   - sudo cabal update
   - sudo cabal install pandoc
 script:
