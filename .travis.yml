@@ -2,17 +2,19 @@ sudo: false
 
 cache:
   directories:
-    - $HOME/.cabal/
+    - /home/travis/.cabal/
 
 addons:
   apt:
     packages:
       - texlive
+      - texlive-latex-recommended
       - ghc
       - cabal-install
 
 before_install:
   - cabal update
+  - cabal install cabal
   - cabal install pandoc
 
 script:
@@ -30,4 +32,4 @@ deploy:
 
 env:
   gloabl:
-    - PANDOC_PATH=$HOME/.cabal/bin/pandoc
+    - PANDOC_PATH=/home/travis/.cabal/bin/pandoc
