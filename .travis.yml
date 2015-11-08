@@ -30,4 +30,4 @@ deploy:
 
 env:
   gloabl:
-    - PANDOC_PATH = $HOME/.cabal/lib/pandoc
+    - PANDOC_PATH = $HOME/.cabal/bin/pandoc
