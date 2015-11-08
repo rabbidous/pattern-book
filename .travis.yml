@@ -8,8 +8,8 @@ addons:
       - cabal-install
 
 before_install:
-  cabal update
-  cabal install pandoc
+  - cabal update
+  - cabal install pandoc
 
 script:
   - make clean
