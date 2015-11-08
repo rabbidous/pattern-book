@@ -23,3 +23,7 @@ deploy:
     tags: true
     all_branches: true
     repo: rabbidous/pattern-book
+
+env:
+  gloabl:
+    - PANDOC_PATH=~/.cabal/lib/pandoc
