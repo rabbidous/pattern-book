@@ -4,6 +4,7 @@ addons:
   apt:
     packages:
       - texlive
+      - ghc
       - cabal-install
 
 before_install:
