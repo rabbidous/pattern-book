@@ -1,10 +1,14 @@
-sudo: required
+sudo: false
+
+addons:
+  apt:
+    packages:
+      - texlive
+      - cabal-install
+
 before_install:
-  - sudo apt-get update
-  - sudo apt-get build-dep pandoc
-  - sudo apt-get install texlive cabal-install
-  - sudo cabal update
-  - sudo cabal install pandoc
+  cabal install pandoc
+
 script:
   - make clean
   - make all
