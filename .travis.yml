@@ -1,5 +1,9 @@
 sudo: false
 
+cache:
+  directories:
+    - $HOME/.cabal/
+
 addons:
   apt:
     packages:
@@ -26,4 +30,4 @@ deploy:
 
 env:
   gloabl:
-    - PANDOC_PATH=~/.cabal/lib/pandoc
+    - PANDOC_PATH = $HOME/.cabal/lib/pandoc
