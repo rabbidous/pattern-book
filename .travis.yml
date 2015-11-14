@@ -9,13 +9,14 @@ addons:
     packages:
       - texlive
       - texlive-latex-recommended
+      - texlive-latex-extra
       - ghc
       - cabal-install
 
 before_install:
-  - cabal update
-  - cabal install cabal
-  - cabal install pandoc
+  - /home/travis/.cabal/bin/cabal update
+  - /home/travis/.cabal/bin/cabal install cabal
+  - /home/travis/.cabal/bin/cabal install pandoc
 
 script:
   - make clean
