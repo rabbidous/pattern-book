@@ -224,9 +224,9 @@ doing it.
     know you can pick up and keep juggling. Even when you're not juggling, it's
     wise to keep an eye on Mel.
 * **Juggling means never having to say you're sorry**
-    No, really.  
-    Don't say you're sorry unless you draw blood.  
-    (However, if you draw blood then you do have to say you're sorry.)  
+    No, really.
+    Don't say you're sorry unless you draw blood.
+    (However, if you draw blood then you do have to say you're sorry.)
     Beginners often apologize profusely for their lack of skill. It's ok! We
     already know you're a beginner. But we like passing with other people and
     passing with beginners too. You'll get better soon and the best way is with
@@ -314,22 +314,3 @@ do a lot of the 7 and 8 club based passing patterns.
 * Mark Weston's passing collection
 * Martin Frost and Stanford jugglers
 * [Gandini Juggling Project](http://www.gandinijuggling.com/)
-
-# The patterns
-* [Three Person Patterns](02_three_person_patterns.md)
-* [Four Person Patterns](03_four_person_patterns.md)
-* [Five Person Patterns](04_five_person_patterns.md)
-* [Six Person Patterns](05_six_person_patterns.md)
-* [Seven Person Patterns](06_seven_person_patterns.md)
-* [Eight Person Patterns](07_eight_person_patterns.md)
-* [Nine Person Patterns](08_nine_person_patterns.md)
-* [Ten Person Patterns](09_ten_person_patterns.md)
-* [Big Patterns (11+ people)](10_big_patterns.md)
-
-# Appendices
-* [Appendix A: 7 Club Patterns and Variations](11_appendix_a_7clubs.md)
-* [Appendix B: Dual Passing Patterns](12_appendix_b_dual_passing.md)
-* [Appendix C: Gandini Siteswap Weaves](13_appendix_c_gandini_weaves.md)
-* [Appendix D: Seven Club Two-Count Exposed](14_appendix_d_7club2ct.md)
-* [Appendix E: Synchronous Passing](15_appendix_e_synchronous_passing.md)
-* [Appendix F: Passing 43](16_appendix_f_passing_43.md)
