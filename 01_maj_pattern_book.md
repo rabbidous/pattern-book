@@ -61,6 +61,8 @@ where you can also download the latest edition of this book.
 
 > * Right hand counting
 
+![](media/3_feed.png)
+
 When juggling the cascade, each hand takes turns throwing: right, left, right,
 left, etc. Usually, all of the jugglers in the pattern throw their right hand
 throws at the same time, and then their left hand throws at the same time. For
@@ -109,6 +111,8 @@ starting instructions may be noted in the graph or underneath it.
 > * A starts with 4 and right hand
 > * B, C and D start with left hand
 
+![](media/3_feed.png)
+
 Here's an example with double straight passes and special instructions. In this
 case all the passes are right handed passes, but we count both left and right
 hand throws. A throws right Double pass to D, then left self, then right Double
@@ -127,6 +131,8 @@ room to pass underneath to C and B.*
 | **D**       |       | B     |       | C     | A     | C     |
 
 > * Both hands counting
+
+![](media/box.png)
 
 The above pattern has both hands counting, so the column under 1 is a right hand
 pass, the column under 2 is a left hand pass, etc.
