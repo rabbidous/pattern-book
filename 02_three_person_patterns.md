@@ -1,6 +1,5 @@
 #  3-Person Patterns
 
-
 ## Feed (for 3 jugglers)
 
 The feed for 3 jugglers is the simplest 3 person pattern and likely the first
@@ -15,6 +14,8 @@ before trying them in larger patterns.
 | **C**       |       | A     |
 
 > * Right hand counting
+
+![](media/2_feed.png)
 
 How about left handed, chocolate bar, feeder in double 3-count (and feedees in
 3-count), or Tom's (which is 3 passes in a row to each feedee with no selves for
@@ -90,6 +91,8 @@ for now and maybe we'll get some of them in a future passing pattern book.
 
 ## Triangle
 
+![](media/2_feed.png)
+
 When 3 jugglers stand in a triangle, three obvious passing formations are the
 inside triangle (pass to the juggler on the left with a right hand pass),
 outside triangle (pass to the juggler on the right with a right hand pass), and
@@ -131,6 +134,8 @@ rotating feed is the same as a feast.
 >   * Each feeder feeds the other 2 jugglers.
 >   * The next feeder feeds in the opposite order of the previous feeder.
 
+![](media/2_feed.png)
+
 A starts as the feeder and feeds right-left. C is the next feeder and feeds
 opposite of A, so C feeds left-right. B, the next feeder, feeds opposite of C,
 namely, right-left. A then feeds left-right, followed by C with right-left, and
@@ -162,6 +167,8 @@ Right, self, right, self, self, left, self, self, self, left, self, self.
 | **C**       | A     |       | A     |       |       | A     |       |       |       | A      |        |        |
 
 > * Both hands counting, right hand starts
+
+![](media/2_feed.png)
 
 A is the feeder, and B and C are doing the Three-piece Puzzle pattern six throws out of phase.
 
@@ -228,6 +235,8 @@ feeder to transfer the extra club.
 > * A and C start with right hand.
 > * B starts with left hand
 
+![](media/2_feed.png)
+
 ### Variations
 
  Once you're comfortable with this pattern, try pirouetting under the double
@@ -236,6 +245,8 @@ triple straight pass instead (followed by a pause), or both!
 By Luke Emery 1999.
 
 ## Extra Club Triangles
+
+![](media/2_feed.png)
 
 There are a lot of nice extra club triangle variations. Here are a few examples
 to play with.
@@ -468,6 +479,8 @@ By Luke Emery, 2002.
 
 ## Lines
 
+![](media/lines.png)
+
 The Line is another classic family of patterns with countless variations. Here are a few we often juggle in Madison.
 
 ### Mel in the Middle
@@ -521,6 +534,8 @@ be useful for more complex patterns. Also see 4 person Lines.
 
 ### Extra Club Line
 
+![](media/lines.png)
+
 What do you do if there are 3 club passers and one is more advanced, one is
 intermediate and the third is a beginner. Here's a nice pattern to accommodate
 everyone!
@@ -548,6 +563,8 @@ to A. A alternates right triple selves and doubles to A (fast popcorn).
 | **C**       |         | T-A     |         | T-B     | A       | T-B     | Move    | B       | Move    |
 
 > * Right hand counting
+
+![](media/lines.png)
 
 A starts with 4 clubs and passes triple to C, single to A. B faces A, starts
 with a self, and passes every others to A. C starts with a self, then triple
@@ -577,4 +594,5 @@ There's a 5 person variation we call Cathedral in the 5 Person Patterns.
 ## Up Up Over
 
 An animation of this pattern can be seen by visiting the
-[Juggloid website](http://juggloid.com/editor/?s=yhIKp1)
+[Juggloid website](http://juggloid.com/editor/?s=yhIKp1), or, you can simply
+consult Professor Mike.
